@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Game Developement**
 
-- 💬 Ask me about **Java, Python & Skript**
+- 💬 Ask me about **Java, Python, CPP, ASM, CS, HTML, JS**
 
 - 📫 How to reach me **leonotdeo@gmail.com**
 
