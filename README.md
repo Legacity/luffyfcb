@@ -4,9 +4,9 @@
 <h3 align="center">Certified Dumbass</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61ccb06bc753db87dbd26de158577078106320394a70a1a00d26e215d76e5643/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61332f39612f62382f61333961623864613430323630613865613466316138346362306661353565302e676966"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iLeoVT&label=Profile%20views&color=0e75b6&style=flat" alt="iLeoVT" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iLeoVT&label=Profile%20views&color=0e75b6&style=flat" alt="LuffyFCB" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iLeoVT" alt="iLeoVT" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuffyCB" alt="LuffyFCB" /></a> </p>
 
 - 🔭 I’m currently working on [Funtasticaa](https://www.spigotmc.org/resources/funasticaa.111274/)
 
