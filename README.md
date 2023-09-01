@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luffyfcb&label=Profile%20views&color=0e75b6&style=flat" alt="luffyfcb" /> </p>
 
-<p align="left"> <a href="https://twitter.com/leoisfound" target="blank"><img src="https://img.shields.io/twitter/follow/leoisfound?logo=twitter&style=for-the-badge" alt="leoisfound" /></a> </p>
 
 - 🔭 I’m currently working on [Hypixel Skyblock (MMORPG) remake](https://github.com/LuffyFCB/CPSkyblock)
 
