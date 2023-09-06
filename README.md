@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmad Malik</h1>
-<h3 align="center">I'm a High-end Programmer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm El1mination</h1>
+<h3 align="center">I'm a High-end Programmer from Middle East!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luffyfcb&label=Profile%20views&color=0e75b6&style=flat" alt="luffyfcb" /> </p>
 
